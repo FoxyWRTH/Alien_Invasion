@@ -6,6 +6,7 @@ ver 0.1
 
 Изучаем Python. Программирование игр, визуализация данных, веб-приложения 
 Автор: Эрик Мэтиз
+
 Python Crash Course, 2nd Edition: A Hands-On, Project-Based Introduction to Programming
 Автор: Eric Matthes
 
